@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.livestoriz
+testFramework: junit
+sourceLanguage: groovy
+buildTool: maven
+features: [app-name, groovy, groovy-application, h2, http-client, junit, logback, management, maven, netty-server, properties, readme, shade]
